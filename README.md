@@ -1,6 +1,4 @@
-Sure, here is the detailed code for your `README.md` file:
 
-```markdown
 # TGI Article Footer
 
 This is a WordPress plugin that adds a custom footer to your articles.
